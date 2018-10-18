@@ -1,0 +1,59 @@
+git config --global user.email "yakkali.pavan1999@gmail.com"
+
+git config --global user.name "Pavan Yakkali"
+
+
+ 1  git --config user.name
+    2  git config --global user.name
+    3  Pavan Yakkali
+    4  git config --global user.name
+    5  Pavan Yakkali
+    6  git config --global user.email"yakkali.pavan1999@gmail.comm"
+    7  git config --global user.email"yakkali.pavan1999@gmail.com"
+    8  git config --global user.name"Pavan Yakkali"
+    9  git config --global user.name
+   10  git --config user.name
+   11  git config user.name
+   12  git config --global user.email"yakkali.pavan1999@gmail.com"
+   13  git config --global user.name
+   14  git config --global user.mail
+   15  git config --global user.email
+   16  git config --global user.email "yakkali.pavan1999@gmail.com"
+   17  git config --global user.email
+   18  git config --global user.name
+   19  git config --global user.name "Pavan Yakkali"
+   20  git config --global user.name
+   21  ls
+   22  ls -a
+   23  ls -l
+   24  sudo user
+   25  cd hacktober
+   26  cd hacktober
+   27  ls
+   28  cd C
+   29  ls
+   30  cd Desktop
+   31  ls
+   32  cd git
+   33  git init
+   34  git status
+   35  cat tssp
+   36  git add xyz
+   37  git add xyz
+   38  git add xyz.docx
+   39  git status
+   40  git commit -m "adding xyz.docx"
+   41  git status
+   42  pwd
+   43  mkdir pavan
+   44  rmdir pavan
+   45  netdiscover -i
+   46  git remote aadd origin hhtps://github.com/PavanYakkali/new
+   47  git remote add origin hhtps://github.com/PavanYakkali/new
+   48  git push -u origin master
+   49  git --help
+   50  git remote -v
+   51  gitpush -u origin master
+   52  git push -u origin master
+   53  git log
+   54  history
